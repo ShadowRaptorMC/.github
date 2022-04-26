@@ -1,0 +1,1 @@
+Welcome to ShadowRaptor Network! We are a Modded Minecraft server network dedicated to creating a fun and stable environment to play the best that modded Minecraft has to offer! We also develop modpacks, which we have repositories hosted here on GitHub for. 
